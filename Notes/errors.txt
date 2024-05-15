@@ -1,0 +1,2 @@
+1> At some compo tailwindcss not working to solve this go to tailwind officila site and config according to the tailwind
+2>
